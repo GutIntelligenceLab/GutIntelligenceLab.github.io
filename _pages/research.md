@@ -1,7 +1,7 @@
 ---
-title: "Gut Intelligence Lab - Research"
+title: "Gastroenterology Data Science Lab - Research"
 layout: research
-excerpt: "Gut Intelligence Lab -- Research"
+excerpt: "Gastroenterology Data Science Lab -- Research"
 sitemap: false
 permalink: /research/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Gut Intelligence Lab - Team"
+title: "Gastroenterology Data Science Lab - Team"
 layout: gridlay
-excerpt: "Gut Intelligence Lab: Team members"
+excerpt: "Gastroenterology Data Science Lab: Team members"
 sitemap: false
 permalink: /team/
 ---

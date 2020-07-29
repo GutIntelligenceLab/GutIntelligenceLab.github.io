@@ -1,7 +1,7 @@
 ---
-title: "Gut Intelligence Lab - Alumni & Collaborators"
+title: "Gastroenterology Data Science Lab - Alumni & Collaborators"
 layout: gridlay
-excerpt: "Gut Intelligence Lab: Team members"
+excerpt: "Gastroenterology Data Science Lab: Team members"
 sitemap: false
 permalink: /alumni/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Gut Intelligence Lab - Home"
+title: "Gastroenterology Data Science Lab - Home"
 layout: homelay
-excerpt: "Gut Intelligence Lab at the University of Virginia"
+excerpt: "Gastroenterology Data Science Lab at the University of Virginia"
 sitemap: false
 permalink: /
 ---

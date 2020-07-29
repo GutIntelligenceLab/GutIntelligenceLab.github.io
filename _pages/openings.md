@@ -1,5 +1,5 @@
 ---
-title: "Gut Intelligence Lab - Vacancies"
+title: "Gastroenterology Data Science Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
