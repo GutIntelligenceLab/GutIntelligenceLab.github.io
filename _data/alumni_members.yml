@@ -1,6 +1,7 @@
 - name: Lubaina Ehsan
   photo: lubaina.jpg
-  info: Research Assistant, MD
+  duration: (Current) Pediatrics Resident at Western Michigan University
+  info: Research Assistant, MD (2019-2021)
   email: LE7JG@hscmail.mcc.virginia.edu
   linkedin: https://www.linkedin.com/in/lubaina-ehsan-7b157579/
   scholar: https://scholar.google.com/citations?user=FLok5d8AAAAJ&hl=en&oi=ao
@@ -8,7 +9,8 @@
 
 - name: Aman Shrivastava
   photo: aman.png
-  info: Research Scientist, MS
+  duration: (Current) CS PhD Student at UVA
+  info: Research Scientist, MS (2018-2021)
   email: as3ek@virginia.edu
   github: https://github.com/amanthedorkknight
   scholar: https://scholar.google.com/citations?user=8JKUMc8AAAAJ&hl=en
@@ -16,7 +18,7 @@
 - name: Marium Khan
   photo: marium.jpg
   duration: (Current) Pediatrics Resident UVA
-  info: Research Assistant, MD
+  info: Research Assistant, MD (2017-2019)
   email: MK2NE@hscmail.mcc.virginia.edu
   # number_educ: 1
   # education1:
