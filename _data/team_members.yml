@@ -9,24 +9,39 @@
   info: W.S. Calcott Professor Department of Systems and Information Engineering, PhD
   email: deb@virginia.edu
 
-- name: Lubaina Ehsan
-  photo: lubaina.jpg
-  info: Research Assistant, MD
-  email: LE7JG@hscmail.mcc.virginia.edu
-  linkedin: https://www.linkedin.com/in/lubaina-ehsan-7b157579/
-  scholar: https://scholar.google.com/citations?user=FLok5d8AAAAJ&hl=en&oi=ao
-  rg: https://www.researchgate.net/profile/Lubaina_Ehsan
+- name: Yash Sharma
+  photo: yash.png
+  info: Research Scientist
+  email: ys5hd@virginia.edu
 
-- name: Aman Shrivastava
-  photo: aman.png
-  info: Research Scientist, MS
-  email: as3ek@virginia.edu
-  github: https://github.com/amanthedorkknight
-  scholar: https://scholar.google.com/citations?user=8JKUMc8AAAAJ&hl=en
+- name: Phillip Fernandes
+  photo: phillip.jpg
+  info: Research Assistant
+
+- name: Kate Still
+  photo: kate.png
+  info: Research Assistant
+
+- name: Amir Javaid
+  photo: amir.png
+  info: Research Assistant
+
+- name: Brooklyn McGrew
+  photo: brooklyn.jpg
+  info: Research Assistant
+
+- name: Isabelle Aldridge
+  photo: isabelle.png
+  info: Research Assistant
+
+- name: William Adorno
+  photo: will.png
+  info: PhD Student
+  email: wa3mr@virginia.edu
 
 - name: Saurav Sengupta
-  photo: saurav3.jpg
-  info: Research Scientist, MS
+  photo: saurav.png
+  info: PhD Student
   email: ss4yd@virginia.edu
   github: https://github.com/ssen7
   linkedin: https://www.linkedin.com/in/saurav-sengupta/
@@ -38,52 +53,28 @@
   email: j.vincepulido@gmail.com
   scholar: https://scholar.google.com/citations?user=5XiinBIAAAAJ&hl=en
 
-# - name: Alexis Catalano
-#   photo: alexis.jpg
-#   info: Biology undergrad at UVa
-#   email: amc5ap@virginia.edu
-
-# - name: Kamran Kowsari
-#   photo: kamran.jpg
-#   info: PhD Student
-#   scholar: https://scholar.google.com/citations?user=0OqR76cAAAAJ&hl=en
-
-- name: William Adorno
-  photo: will.png
+- name: Sodiq Adewole
+  photo: sodiq.png
   info: PhD Student
-  email: wa3mr@virginia.edu
 
 - name: Rasoul Sali
   photo: rasoul.jpg
   info: PhD Student
   email: rs8wa@virginia.edu
   scholar: https://scholar.google.com/citations?user=jimtbcgAAAAJ&hl=en
-# - name: Victor Aquino
-#   photo: victor.png
-#   info: Medical Student at UVa
-#   email: kw5na@virginia.edu
-# - name: Shan Guleria
-#   photo: shan.jpg
-#   info: Medical Student at UVa
-#   email:
-#   number_educ:
-#   education1:
-#   education2:
-#   education3:
-#   education4:
 
-# - name: Ryan Sosh
-#   photo: ryan.png
-#   info: Medical Student at UVa
-#   email:
-#   number_educ: 0
-#   education1:
-# - name: "This could be you !"
-#   photo: rock.jpg
-#   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-#   email: milan.allan@gmail.com
-#   number_educ: 0
-#   education1:
-#   education2:
-#   education3:
-#   education4:
+- name: James Jablonski​
+  photo: james.png
+  info: PhD Student
+
+- name: Elise Corden
+  photo: elise.jpg
+  info: Research Assistant
+
+- name: Omar Elghawy
+  photo: omar.png
+  info: Research Assistant
+
+- name: Kayla Scott
+  photo: kayla.png
+  info: Research Assistant

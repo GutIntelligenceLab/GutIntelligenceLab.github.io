@@ -1,3 +1,18 @@
+- name: Lubaina Ehsan
+  photo: lubaina.jpg
+  info: Research Assistant, MD
+  email: LE7JG@hscmail.mcc.virginia.edu
+  linkedin: https://www.linkedin.com/in/lubaina-ehsan-7b157579/
+  scholar: https://scholar.google.com/citations?user=FLok5d8AAAAJ&hl=en&oi=ao
+  rg: https://www.researchgate.net/profile/Lubaina_Ehsan
+
+- name: Aman Shrivastava
+  photo: aman.png
+  info: Research Scientist, MS
+  email: as3ek@virginia.edu
+  github: https://github.com/amanthedorkknight
+  scholar: https://scholar.google.com/citations?user=8JKUMc8AAAAJ&hl=en
+
 - name: Marium Khan
   photo: marium.jpg
   duration: (Current) Pediatrics Resident UVA
