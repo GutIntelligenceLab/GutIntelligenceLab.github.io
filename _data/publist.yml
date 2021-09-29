@@ -1,3 +1,103 @@
+- title: "Artificial intelligence-based analytics for diagnosis of small bowel enteropathies and black box feature detection."
+  image: pub2.jpg
+  description: 
+  authors: Syed, S., Ehsan, L., Shrivastava, A., Sengupta, S., Khan, M., Kowsari, K., Guleria, S., Sali, R., Kant, K., Kang, S.J., Sadiq, K., Iqbal, N., Cheng, L., Moskaluk, C., Kelly, P., Amadi, B., Syed, A., Moore, S., Brown, D.
+  link:
+    url: https://journals.lww.com/jpgn/Abstract/2021/06000/Artificial_Intelligence_based_Analytics_for.11.aspx
+    display: Journal of Pediatric Gastroenterology and Nutrition 72, no. 6 (2021) 833-841.
+  highlight: 1
+  news2:
+
+- title: "Deep Learning for Whole-Slide Tissue Histopathology Classification - A Comparative Study in the Identification of Dysplastic and Non-Dysplastic Barrett’s Esophagus."
+  image: pub2.jpg
+  description: 
+  authors: Sali, R., Moradinasab, N., Guleria, S., Ehsan, L., Fernandes, P., Shah, T.U., Syed, S. and Brown, D.E.,
+  link:
+    url: https://www.mdpi.com/2075-4426/10/4/141
+    display: Journal of Personalized Medicine 10, no. 4 (2020) 141.
+  highlight: 1
+  news2:
+
+- title: "Deep learning methods for anatomical landmark detection in video capsule endoscopy images."
+  image: pub2.jpg
+  description: 
+  authors: Adewole, S., Yeghyayan, M., Hyatt, D., Ehsan, L., Jablonski, J., Copland, A., Syed, S. and Brown, D.,
+  link:
+    url: https://www.researchgate.net/publication/342571247_Deep_Learning_Methods_for_Anatomical_Landmark_Detection_in_Video_Capsule_Endoscopy_Images
+    display: Proceedings of the Future Technologies Conference, pp. 426-434. Springer, Cham, 2020.
+  highlight: 1
+  news2:
+
+- title: "CoMixMatch - Semi-supervised Detection of Pancreatic Cancer on Noisy, Gigapixel Histology Images"
+  image: pub2.jpg
+  description: 
+  authors: Pulido, J.V., Syed, S. and Brown, D.E.,
+  link:
+    url: https://www.researchgate.net/publication/349389822_CoMixMatch_Semi-supervised_Detection_of_Pancreatic_Cancer_on_Noisy_Gigapixel_Histology_Images
+    display: 2021 BIOIMAGING.
+  highlight: 1
+  news2:
+
+- title: "Advancing Eosinophilic Esophagitis Diagnosis and Phenotype Assessment with Deep Learning Computer Vision."
+  image: pub2.jpg
+  description: 
+  authors: William Adorno, I.I.I., Catalano, A., Ehsan, L., von Eckstaedt, H.V., Barnes, B., McGowan, E., Syed, S. and Brown, D.E.,
+  link:
+    url: https://arxiv.org/abs/2101.05326
+    display: 2021 BIOIMAGING. (Best Paper Award)
+  highlight: 1
+  news2:
+
+- title: "HistoTransfer - Understanding Transfer Learning for Histopathology."
+  image: pub2.jpg
+  description: 
+  authors: Sharma, Y., Ehsan, L., Syed, S. and Brown, D.E.
+  link:
+    url: https://arxiv.org/abs/2106.07068
+    display: 2021 IEEE International Conference on Biomedical and Health Informatics (BHI-21). (Best Paper Award)
+  highlight: 1
+  news2:
+
+- title: "Cluster-to-Conquer - A Framework for End-to-End Multi-Instance Learning for Whole Slide Image Classification"
+  image: pub2.jpg
+  description: 
+  authors: Sharma, Y., Shrivastava, A., Ehsan, L., Moskaluk, C.A., Syed, S. and Brown, D.E.
+  link:
+    url: https://arxiv.org/abs/2103.10626
+    display: 2021 MIDL.
+  highlight: 1
+  news2:
+
+- title: "Semi-Supervised Classification of Noisy, Gigapixel Histology Images."
+  image: pub2.jpg
+  description: 
+  authors: Pulido, J.V., Guleria, S., Ehsan, L., Fasullo, M., Lippman, R., Mutha, P., Shah, T., Syed, S. and Brown, D.E.
+  link:
+    url: https://ieeexplore.ieee.org/document/9287980
+    display: 2020 IEEE 20th International Conference on Bioinformatics and Bioengineering (BIBE), pp. 563-568. IEEE.
+  highlight: 1
+  news2:
+
+- title: "Screening for Barrett's Esophagus with Probe-Based Confocal Laser Endomicroscopy Videos."
+  image: pub2.jpg
+  description: 
+  authors: Pulido, J.V., Guleriai, S., Ehsan, L., Shah, T., Syed, S. and Brown, D.E.
+  link:
+    url: https://ieeexplore.ieee.org/document/9098630
+    display: 2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI) (pp. 1659-1663). IEEE.
+  highlight: 1
+  news2:
+
+- title: "Hierarchical deep convolutional neural networks for multi-category diagnosis of gastrointestinal disorders on histopathological images."
+  image: pub2.jpg
+  description: 
+  authors: Sali, R., Adewole, S., Ehsan, L., Denson, L.A., Kelly, P., Amadi, B.C., Holtz, L., Ali, S.A., Moore, S.R., Syed, S. and Brown, D.E.
+  link:
+    url: https://arxiv.org/abs/2005.03868
+    display: 2020 IEEE International Conference on Healthcare Informatics (ICHI), pp. 1-6. IEEE.
+  highlight: 1
+  news2:
+
 - title: "HMIC: Hierarchical Medical Image Classification, A Deep Learning Approach"
   image: pub2.jpg
   description: 
@@ -7,7 +107,7 @@
     display: Information 11, no. 6 (2020) 318.
   highlight: 1
   news2:
-
+  
 - title: "Self-Attentive Adversarial Stain Normalization"
   image: pub2.jpg
   description: 
